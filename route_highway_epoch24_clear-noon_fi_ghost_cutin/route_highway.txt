@@ -20,22 +20,22 @@
                     "vehicle_blocked": []
                 },
                 "meta": {
-                    "duration_game": 0.0,
-                    "duration_system": 0.0,
+                    "duration_game": 18.82500028051436,
+                    "duration_system": 41.36631155014038,
                     "route_length": 131.56012567009267
                 },
                 "route_id": "RouteScenario_0",
                 "scores": {
-                    "score_composed": 0.0,
+                    "score_composed": 100.0,
                     "score_penalty": 1.0,
-                    "score_route": 0.0
+                    "score_route": 100.0
                 },
-                "status": "Failed - Simulation crashed"
+                "status": "Completed"
             }
         ]
     },
     "eligible": false,
-    "entry_status": "Crashed",
+    "entry_status": "Started",
     "labels": [],
     "sensors": [
         "carla_camera",
